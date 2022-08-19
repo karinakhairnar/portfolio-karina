@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import { GoMarkGithub } from "react-icons/go";
 import {
   SiLinux,
   SiVisualstudiocode,
@@ -14,6 +15,9 @@ function Toolstack() {
       {/* <Col xs={4} md={2} className="tech-icons">
         <SiLinux />
       </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <GoMarkGithub/>
+      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
       </Col>

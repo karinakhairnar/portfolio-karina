@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+
+import { CgEricsson ,AiFillHtml5} from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
@@ -19,8 +20,9 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+        <CgEricsson/>
       </Col>
+    
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
@@ -34,7 +36,7 @@ function Techstack() {
         <DiMongodb />
       </Col>
       {/* <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+        <AiFillHtml5 />
       </Col> */}
       {/* <Col xs={4} md={2} className="tech-icons">
         <DiGit />
@@ -48,6 +50,7 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <SiPytorch />
       </Col> */}
+      <i class="fa-regular fa-code"></i>
     </Row>
   );
 }
