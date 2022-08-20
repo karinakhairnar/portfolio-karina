@@ -34,7 +34,8 @@ function Projects() {
               Build Checkout Page - In Checkout page related to payment and shipping/billing details , it basically collects customers shipping details. 
               | Build Payment page - In payment page customers are allowed to purchase items easily and secretly.
               | Change the CSS of every page for getting same look as original site
-              Tech Stack- HTML | CSS | Javascript '
+               '
+              tech=' HTML | CSS | Javascript'
               link='https://github.com/Thannzz/credo-beauty-clone'
             />
           </Col>
@@ -52,8 +53,8 @@ function Projects() {
               res='Signin and Signup Authentication.
               | Add to cart - user can add product in card/bag.
               | WishList Page - if user links products that can be store in this page.
-              | Change CSS in some of the pages.
-              Tech Stack- HTML | CSS | Javascript '
+              | Change CSS in some of the pages.'
+              tech=' HTML | CSS | Javascript '
               link='https://github.com/yashtomar15/myntra-clone'
             />
           </Col>
@@ -65,6 +66,7 @@ function Projects() {
               info='On Uboric you can Shop Online for Men & Women Clothing, Shoes, fashion, Home Decor & Kitchen Appliances & Much More. A collaborative project built by a team of 6 members executed in 7 days.'
               feature='Sign-in/Sign-up Authentication | Functionality of Filtering | Functionality of Hovering | Add-To-Card | Payment'
               res=' Add to cart - user can add product in card/bag. | Build Checkout Page - In Checkout page related to payment and shipping/billing details , it basically collects customers shipping details | Build Payment page - In payment page customers are allowed to purchase items easily and secretly | Change CSS in some of the pages | Team Leading'
+              tech=' HTML | CSS | Javascript '
               link='https://github.com/Saraswati121/Uboric'
             />
           </Col>
@@ -78,8 +80,8 @@ function Projects() {
               feature='Sign-in/Sign-up Authentication | Functionality of Hovering | Add-To-Card | Payment'
               res='Building Sign-up and Login Page with all functionality.
               | Storing all data in MongoDB server also in Localstorage.
-              | Providing Authentication to both pages by using the backend.
-              Tech Stack: React | Redux | Styled Component | Chakra UI | Node.JS | Express.JS | Mongoose | MongoDB'
+              | Providing Authentication to both pages by using the backend.'
+              tech=' React | Redux | Styled Component | Chakra UI | Node.JS | Express.JS | Mongoose | MongoDB'
               link='https://github.com/Mohd-Haroon/gusty-adjustment-6018'
             />
           </Col>
@@ -93,8 +95,8 @@ function Projects() {
               res='Building a Cart Page with all functionality.
               | Building Checkout and Shipping Page with all functionality.
               | Building Learn and Grow Pages with functionality.
-              | Providing CSS on the Same pages.
-              Tech Stack: React | Redux | Styled Component | Chakra UI | Node.JS | Express.JS | Mongoose | MongoDB'
+              | Providing CSS on the Same pages.'
+              tech='React | Redux | Styled Component | Chakra UI | Node.JS | Express.JS | Mongoose | MongoDB'
               link='https://github.com/Mohd-Haroon/gusty-adjustment-6018'
             />
           </Col>

@@ -17,6 +17,10 @@ function ProjectCards(props) {
           <h5 style={{ color: 'purple' }}>Areas of responsibility :-</h5>{' '}
           {props.res}
         </Card.Text>
+        <Card.Text style={{ textAlign: 'justify' }}>
+          <h5 style={{ color: 'purple' }}>Tech Stack :-</h5>{' '}
+          {props.tech}
+        </Card.Text>
         <div style={{ textAlign: 'center', display: 'flex',justifyContent: 'space-between',padding:'1em'}}>
           <div>
             <Button variant='primary' href={props.link} target='_blank'>
