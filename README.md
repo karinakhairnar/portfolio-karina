@@ -73,4 +73,4 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
->>>>>>> 92fd6e6d1dbd7ceb13ad11158808bdd1e7e7aad3
+
